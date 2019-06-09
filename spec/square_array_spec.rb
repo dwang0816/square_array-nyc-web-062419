@@ -23,6 +23,6 @@ end
 
 def square_array(array)
   # your code here
-  []
-  array.each 
+  squared_array = []
+  array.each do | 
 end
